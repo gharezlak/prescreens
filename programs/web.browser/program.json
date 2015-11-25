@@ -1,0 +1,47 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "c5d6254852a719d506101f92b0c3d0191b3a97a1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/c5d6254852a719d506101f92b0c3d0191b3a97a1.js?meteor_js_resource=true",
+      "size": 468603,
+      "hash": "c5d6254852a719d506101f92b0c3d0191b3a97a1"
+    },
+    {
+      "path": "2f4fdf436e2e5d23a9aa2a40a2b473b08b81589d.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/2f4fdf436e2e5d23a9aa2a40a2b473b08b81589d.css?meteor_css_resource=true",
+      "size": 126834,
+      "hash": "2f4fdf436e2e5d23a9aa2a40a2b473b08b81589d"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "9b66a830a1fd0aa3dbb3cfa58231d93cb99da726"
+    }
+  ]
+}
